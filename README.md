@@ -12,18 +12,22 @@ This project implements a deep learning image classifier using a convolutional n
 - **Hyperparameters:**
   - Learning Rate: 0.001
   - Batch Size: 50
-  - ...
+  - seed: 42
 
 ## Results
 ### Quantitative Results
 - **Confusion Matrix:**
-  [Insert Confusion Matrix Image]
+![confusion-matrix](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/ca66ed90-dc49-4ab8-ad52-627bc44fe2f0)
+
 
 - **Training and Validation Performance:**
-  [Insert Accuracy and Loss Graphs]
+  ![loss-over-epochs](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/1b0b1e37-60fa-46da-8ab3-a3c8f92c8c38)
+![accuracy-over-epochs](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/f98759ce-288f-4794-bbb2-db71b031baad)
+
 
 - **Data Augmentation Experiment:**
-  [Insert Graphs for Augmented Data Training]
+![final test and train accuracy](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/4c2d8734-cd48-4da6-acfa-3863663ef6ba)
+
 
 - **Maximum Accuracy Achieved:**
   - Training Accuracy: 95%
@@ -31,14 +35,8 @@ This project implements a deep learning image classifier using a convolutional n
 
 ### Visual Results
 - **Inference on Images:**
-  [Show a few images with actual and predicted labels]
+![image](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/5750fb4f-2dd6-405c-9454-db4f86ce86a1)
+![image](https://github.com/arslansalyana/ML_Assignment-3/assets/98019141/d13e132b-7600-46f6-a565-1f7c5fa70bb2)
 
 ## GitHub Repository
-### ReadMe
-[Include the content mentioned above]
-
-### Pre-trained Model Weights
-[Optional: If applicable, provide instructions on loading weights]
-
-## Submission
-[Include the link to your GitHub repository on LMS]
+https://github.com/arslansalyana/ML_Assignment-3
